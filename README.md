@@ -21,7 +21,7 @@ And meanwhile this opportunity appears I'm also improving and learning 📖📚:
     * React Native 
     * Codecademy: Web Development. 
 
-  * Already knowing skills 🎖: 
+  * Already known skills 🎖: 
     * JavaScript
     * React.js
     * Express
